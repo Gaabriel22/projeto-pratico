@@ -1,6 +1,6 @@
 # Seal World
 
-Este projeto prático foi desenvolvido como parte do curso "CSS3" ministrado pelo [Isaac Pontes](https://github.com/isaacpontes) da OneBitCode. A página "Seal World" é uma apresentação interativa sobre o fascinante mundo das focas.
+Este projeto prático foi desenvolvido como parte do módulo de "CSS3" do curso "Desenvolvedor Full Stack Javascript" ministrado pelo [Isaac Pontes](https://github.com/isaacpontes) da OneBitCode. A página "Seal World" é uma apresentação interativa sobre o mundo das focas.
 
 ## Estrutura do Projeto
 
@@ -26,7 +26,7 @@ As imagens utilizadas estão armazenadas na pasta `img/`, e o vídeo está na pa
 
 ## Autor
 
-Desenvolvido como parte do curso "CSS3" na OneBitCode, com instruções de [Isaac Pontes](https://github.com/isaacpontes).
+Desenvolvido como parte do módulo "CSS3" na OneBitCode, com instruções de [Isaac Pontes](https://github.com/isaacpontes).
 
 ---
 
